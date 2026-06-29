@@ -85,4 +85,4 @@ customer_msg_ai/
 ## Author
 
 **Muhammad Arbaz Khalid**
-BSSE Student, Riphah International University
+BSDS Student, Riphah International University
